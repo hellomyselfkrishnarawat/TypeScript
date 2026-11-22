@@ -19,3 +19,6 @@ console.log("nums array: ",nums);
 console.log("names array ", names)
 
 console.log("users array: ",users);
+
+let BmiTuple: [number,number] = [20,10];
+console.log("BmiTuple: ", BmiTuple);
