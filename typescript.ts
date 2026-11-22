@@ -22,3 +22,9 @@ console.log("users array: ",users);
 
 let BmiTuple: [number,number] = [20,10];
 console.log("BmiTuple: ", BmiTuple);
+
+let object: {readonly id : String} = {
+    id : "1wxe3"
+}
+
+console.log("typeScript Object: ", object);

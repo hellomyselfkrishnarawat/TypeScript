@@ -14,4 +14,8 @@ console.log("names array ", names);
 console.log("users array: ", users);
 let BmiTuple = [20, 10];
 console.log("BmiTuple: ", BmiTuple);
+let object = {
+    id: "1wxe3"
+};
+console.log("typeScript Object: ", object);
 //# sourceMappingURL=typescript.js.map
